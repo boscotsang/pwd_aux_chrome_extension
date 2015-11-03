@@ -1,0 +1,2 @@
+# pwd_aux_chrome_extension
+利用网站域名、自定义密码生成特定网站的复杂密码辅助输入工具
